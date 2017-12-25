@@ -1,17 +1,39 @@
 ---
 layout: page
 title: About
-description: Some description.
+description: Test
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_200,w_200/v1504971955/neo_ruqszk.jpg" alt="Your Name">
+<img itemprop="image" class="img-rounded" src="../img/perfil_small.png" alt="Vitor Duarte">
 
-## About
+## ABOUT
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a undergraduate student of **Mechatronics Engineering**. I chose this major because I always loved to know how the things are made and how they work. I am passionate about technology - from its structure to how it changes the world. Nowadays I have a special interest in **Control systems** , **Blockchain**, **Data Science**, **Machine Learning** and **Biomedical Engineering** . I am experienced with **SolidWorks**, **C**, **C++**, **R**, **Python**, **Matlab** and **Assembly** (x86 and MIPS). You can check some of my works in [GitHub](https://github.com/vitorduarte).
+
+I also enjoy working with **Design**, **Illustration** and **Video Editing** . I have produced some works within those areas and it is possible to check some of them in my Portfolio or my [Behance](https://www.behance.net/vitoralvescfb0). I create with **Adobe Illustration**, **Photoshop**, **Premiere** and **After Effects**
+
+## EDUCATION
+* 2013-Now: Bachelor of Mechatronics Engineering at the University of Brasília
+* Workshop of Medical Imaging
+* Workshop of ROS (Robot Operating System)
+
+## EXPERIENCE
+* 2015-Now: Member at [UnBall Robot Soccer Team](equipeunball.com.br)
+* 2015: Intern at [Casa Thomas Jefferson](http://thomas.org.br)
+* 2015-2016: Coding teacher at Cognição Atendimento Multidisciplinar
+* 2017-Now: Developer in [Goledger](http://goledger.com.br/)
+
+## TECHNICAL SKILLS
+
+* Eagle PCB design
+* SolidWorks
+* Hyperledger Composer
+* Programming languages:
+    * Fluent: C, C++, R, Python
+    * Beginner: MATLAB, Assembly
+* Adobe Creative Suite
+    * Photoshop
+    * Illustrator
+    * Premiere
+    * After Effects
